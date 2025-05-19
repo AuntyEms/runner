@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "./dev.sh layout Release linux-x64"
+  }
+}
